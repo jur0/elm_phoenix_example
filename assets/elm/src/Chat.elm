@@ -168,7 +168,7 @@ decodeNewMsg =
 
 lobbySocket : String
 lobbySocket =
-    "ws://192.168.100.100:4000/socket/websocket"
+    "ws://localhost:4000/socket/websocket"
 
 
 {-| Initialize a socket with the default heartbeat intervall of 30 seconds
