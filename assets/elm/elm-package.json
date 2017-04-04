@@ -10,13 +10,13 @@
     "dependencies": {
         "elm-lang/core": "5.1.1 <= v < 6.0.0",
         "elm-lang/html": "2.0.0 <= v < 3.0.0",
-        "jur0/elm-phoenix": "1.0.0 <= v < 2.0.0"
+        "saschatimme/elm-phoenix": "1.0.0 <= v < 2.0.0"
     },
     "dependency-sources": {
-      "jur0/elm-phoenix": "https://github.com/jur0/elm-phoenix",
-      "jur0/elm-phoenix": {
-        "url": "https://github.com/jur0/elm-phoenix",
-        "ref": "add-presence"
+      "saschatimme/elm-phoenix": "https://github.com/saschatimme/elm-phoenix",
+      "saschatimme/elm-phoenix": {
+        "url": "https://github.com/saschatimme/elm-phoenix",
+        "ref": "master"
       }
     },
     "elm-version": "0.18.0 <= v < 0.19.0"
